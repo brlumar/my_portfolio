@@ -1,0 +1,12 @@
+body{
+background-image: url(images/puzzle-3223941.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+
+}
+
+#name{
+    font-family: 'Dancing Script', cursive;
+}
